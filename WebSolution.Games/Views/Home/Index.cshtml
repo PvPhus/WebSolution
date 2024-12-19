@@ -1,0 +1,76 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<!--**********************************
+    Content body start
+***********************************-->
+<div class="content-body">
+    <!-- row -->
+    <div class="container-fluid">
+        <div class="col-xl-12">
+            <div class="row">
+                <div class="fullscreen">
+                    <iframe id="gameFrame" src="" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="copyright">
+            <p>
+                Copyright © Designed & Developed by <a href="@Url.Action("TopGames", "Home")" target="_blank">Vũ Phong Phú - PvP Center Games</a> 2024
+            </p>
+        </div>
+    </div>
+</div>
+<!--**********************************
+    Content body end
+***********************************-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script><!-- jQuery base library needed -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+
+<script>
+
+    function loadGame(gameUrl) {
+        const gameFrame = document.getElementById("gameFrame");
+        gameFrame.src = `https://localhost:44315${gameUrl}`;
+    }
+    function SaveAccount() {
+        $.ajax({
+            url: '/Home/SaveAccount',
+            dataType: "json",
+            type: "POST",
+            contentType: 'application/json; charset=utf-8',
+            data: JSON.stringify({ username: $("#username").val(), email: $("#email").val(), password: $("#password").val(), point: $("#point").val() }),
+            async: true,
+            processData: false,
+            cache: false,
+            success: function (data) {
+                alert(data.Result);
+            },
+            error: function (xhr) {
+                alert('error');
+            }
+        });
+    }
+</script>
+
+<div id="loginPopup" class="popup" onclick="closePopup(event)">
+    <div class="popup-content" id="popupContent">
+        <button class="close-btn" onclick="closePopup()">&times;</button>
+        <h2>Đăng ký tài khoản nhanh</h2>
+        <form id="registerForm">
+            <label for="username">Tên người dùng:</label>
+            <input type="text" id="username" required>
+
+            <label for="email">Email:</label>
+            <input type="text" id="email" required />
+
+            <label for="password">Mật khẩu:</label>
+            <input type="password" id="password" required />
+
+            <button type="submit" onclick="SaveAccount()">Đăng ký</button>
+        </form>
+    </div>
+</div>
+

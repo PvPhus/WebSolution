@@ -1,0 +1,194 @@
+D:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+D:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+D:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\bin\Debug\HtmlAgilityPack.dll
+D:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\bin\Debug\ImageResizer.dll
+D:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+D:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+G:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+G:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+G:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\bin\Debug\HtmlAgilityPack.dll
+G:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\bin\Debug\ImageResizer.dll
+G:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+G:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+G:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CoreCompileInputs.cache
+G:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CopyComplete
+G:\Y tuong\ilang360.com\WebSolutionV2\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csprojResolveAssemblyReference.cache
+C:\Works\WebTech360\WebSolution\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+C:\Works\WebTech360\WebSolution\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+C:\Works\WebTech360\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csprojAssemblyReference.cache
+C:\Works\WebTech360\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CoreCompileInputs.cache
+C:\Works\WebTech360\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CopyComplete
+C:\Works\WebTech360\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+C:\Works\WebTech360\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+D:\WORKS\WebSolution\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+D:\WORKS\WebSolution\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+D:\WORKS\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csprojAssemblyReference.cache
+D:\WORKS\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CopyComplete
+D:\WORKS\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+D:\WORKS\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+D:\GITLAB\WebTech360\WebSolution\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+D:\GITLAB\WebTech360\WebSolution\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+D:\GITLAB\WebTech360\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CoreCompileInputs.cache
+D:\GITLAB\WebTech360\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CopyComplete
+D:\GITLAB\WebTech360\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+D:\GITLAB\WebTech360\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+D:\4. Why cancer treatment can cause hair loss\skins\vs\WebSolution\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+D:\4. Why cancer treatment can cause hair loss\skins\vs\WebSolution\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+D:\4. Why cancer treatment can cause hair loss\skins\vs\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CoreCompileInputs.cache
+D:\4. Why cancer treatment can cause hair loss\skins\vs\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CopyComplete
+D:\4. Why cancer treatment can cause hair loss\skins\vs\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+D:\4. Why cancer treatment can cause hair loss\skins\vs\WebSolution\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+D:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+D:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+D:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.Models.dll
+D:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\MongoDB.Bson.dll
+D:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.Models.pdb
+D:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csprojAssemblyReference.cache
+D:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CoreCompileInputs.cache
+D:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CopyComplete
+D:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+D:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+F:\o SSD\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+F:\o SSD\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+F:\o SSD\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.Models.dll
+F:\o SSD\Code\CloudO3\WebSolution.WebHelper\bin\Debug\MongoDB.Bson.dll
+F:\o SSD\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.Models.pdb
+F:\o SSD\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csprojAssemblyReference.cache
+F:\o SSD\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CoreCompileInputs.cache
+F:\o SSD\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CopyComplete
+F:\o SSD\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+F:\o SSD\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+G:\zzzz Quang\o SSD\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+G:\zzzz Quang\o SSD\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+G:\zzzz Quang\o SSD\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.Models.dll
+G:\zzzz Quang\o SSD\Code\CloudO3\WebSolution.WebHelper\bin\Debug\MongoDB.Bson.dll
+G:\zzzz Quang\o SSD\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.Models.pdb
+G:\zzzz Quang\o SSD\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.AssemblyReference.cache
+G:\zzzz Quang\o SSD\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CoreCompileInputs.cache
+G:\zzzz Quang\o SSD\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CopyComplete
+G:\zzzz Quang\o SSD\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+G:\zzzz Quang\o SSD\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+C:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+C:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+C:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.Models.dll
+C:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\MongoDB.Bson.dll
+C:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.Models.pdb
+C:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.AssemblyReference.cache
+C:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CoreCompileInputs.cache
+C:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CopyComplete
+C:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+C:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+E:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.AssemblyReference.cache
+E:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CoreCompileInputs.cache
+E:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+E:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+E:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.Models.dll
+E:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\MongoDB.Bson.dll
+E:\Code\CloudO3\WebSolution.WebHelper\bin\Debug\WebSolution.Models.pdb
+E:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+E:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+E:\Code\CloudO3\WebSolution.WebHelper\obj\Debug\WebSolut.5CA6B728.Up2Date
+E:\Games\0.Code\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.AssemblyReference.cache
+E:\Games\0.Code\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CoreCompileInputs.cache
+E:\Games\0.Code\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+E:\Games\0.Code\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+E:\Games\0.Code\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+E:\Games\0.Code\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+E:\Games\0.Code\WebSolution.WebHelper\bin\Debug\WebSolution.Models.dll
+E:\Games\0.Code\WebSolution.WebHelper\bin\Debug\MongoDB.Bson.dll
+E:\Games\0.Code\WebSolution.WebHelper\bin\Debug\WebSolution.Models.pdb
+E:\Games\0.Code\WebSolution.WebHelper\obj\Debug\WebSolut.5CA6B728.Up2Date
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\mongocrypt.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll.config
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\AWSSDK.Core.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\AWSSDK.SecurityToken.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\DnsClient.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\MongoDB.Bson.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\MongoDB.Driver.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\SharpCompress.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\Snappier.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Buffers.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Memory.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Numerics.Vectors.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Security.AccessControl.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Security.Principal.Windows.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\WebSolution.Models.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\ZstdSharp.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\WebSolution.Models.pdb
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\AWSSDK.Core.pdb
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\AWSSDK.Core.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\AWSSDK.SecurityToken.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\DnsClient.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\Snappier.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Buffers.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Memory.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Numerics.Vectors.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Security.AccessControl.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Security.Principal.Windows.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.AssemblyReference.cache
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CoreCompileInputs.cache
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\obj\Debug\WebSolut.5CA6B728.Up2Date
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+D:\Web_Game\0.Code\0.Code\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\mongocrypt.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll.config
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\WebSolution.WebHelper.pdb
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\AWSSDK.Core.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\AWSSDK.SecurityToken.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\DnsClient.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\MongoDB.Bson.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\MongoDB.Driver.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\SharpCompress.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\Snappier.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Buffers.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Memory.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Numerics.Vectors.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Security.AccessControl.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Security.Principal.Windows.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\WebSolution.Models.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\ZstdSharp.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\WebSolution.Models.pdb
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\AWSSDK.Core.pdb
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\AWSSDK.Core.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\AWSSDK.SecurityToken.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\DnsClient.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\Snappier.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Buffers.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Memory.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Numerics.Vectors.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Security.AccessControl.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Security.Principal.Windows.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.AssemblyReference.cache
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.csproj.CoreCompileInputs.cache
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\obj\Debug\WebSolut.5CA6B728.Up2Date
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.dll
+D:\Web_Game\0.Code\Web-Games\WebSolution.WebHelper\obj\Debug\WebSolution.WebHelper.pdb

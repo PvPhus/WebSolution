@@ -1,0 +1,67 @@
+﻿@model Dictionary<string, List<WebSolution.Models.GameModel>>
+@{
+    ViewBag.Title = "_MenuGames";
+}
+@using WebSolution.Data
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+
+<div class="dlabnav">
+    <div class="dlabnav-scroll">
+        <ul class="metismenu" id="menu">
+            
+        </ul>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $.ajax({
+            url: '/Game/GetAllGames',
+            dataType: "json",
+            type: "GET",
+            success: function (response) {
+                if (response.Result === "Success") {
+                    let menuHtml = '';
+                    response.Data.forEach(category => {
+                        menuHtml += `
+                            <li>
+                                <a class="has-arrow" href="javascript:void(0)" aria-expanded="false">
+                                    <i class="fas fa-home"></i>
+                                    <span class="nav-text">${category.Category}</span>
+                                </a>
+                                <ul aria-expanded="false">`;
+                        category.Games.forEach(game => {
+                            menuHtml += `
+                                <li>
+                                    <a href="javascript:void(0)"
+                                       onclick="loadGame('/wwwroot/games/${game.GameUrl}/index.html', '${game.GameName}')">
+                                        <img height="30px" width="30px" style="margin-right: 15px;"
+                                             src="${game.GameAvatar}" alt="${game.GameName}">
+                                        ${game.GameName}
+                                    </a>
+                                </li>`;
+                        });
+
+                        menuHtml += `</ul></li>`;
+                    });
+
+                    $("#menu").html(menuHtml);
+                    $('#menu').metisMenu();
+                } else {
+                    alert("Error: " + response.Error);
+                }
+            },
+            error: function (xhr) {
+                alert('Error occurred while fetching data: ' + xhr.statusText);
+            }
+        });
+    });
+
+    function loadGame(gameUrl, gameName) {
+        $('#gameFrame').attr('src', `https://localhost:44315${gameUrl}`);
+        $('.dashboard_bar').text(gameName);
+    }
+
+</script>

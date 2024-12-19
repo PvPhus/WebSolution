@@ -1,0 +1,207 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <!-- FAVICONS ICON -->
+    <link rel="shortcut icon" type="image/png" href="/images/favicon.png">
+    <link href="/vendor/jquery-nice-select/css/nice-select.css" rel="stylesheet">
+    <link href="/vendor/owl-carousel/owl.carousel.css" rel="stylesheet">
+    <link rel="stylesheet" href="/vendor/nouislider/nouislider.min.css">
+
+    <!-- Style css -->
+    <link href="~/css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <!--*******************
+        Preloader start
+    ********************-->
+    <div id="preloader">
+        <div class="lds-ripple">
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <!--*******************
+        Preloader end
+    ********************-->
+    <!--**********************************
+        Main wrapper start
+    ***********************************-->
+    <div id="main-wrapper">
+
+        <!--**********************************
+        Nav header start
+    ***********************************-->
+        <div class="nav-header">
+            <a href="@Url.Action("TopGames", "Home")" class="brand-logo">
+                <!-- <svg class="logo-abbr" width="55" height="55" viewbox="0 0 55 55" fill="none"
+                xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                    d="M27.5 0C12.3122 0 0 12.3122 0 27.5C0 42.6878 12.3122 55 27.5 55C42.6878 55 55 42.6878 55 27.5C55 12.3122 42.6878 0 27.5 0ZM28.0092 46H19L19.0001 34.9784L19 27.5803V24.4779C19 14.3752 24.0922 10 35.3733 10V17.5571C29.8894 17.5571 28.0092 19.4663 28.0092 24.4779V27.5803H36V34.9784H28.0092V46Z"
+                    fill="url(#paint0_linear)"></path>
+                <defs>
+                </defs>
+            </svg> -->
+                <img src="/images/logo_pvp_Center.png" width="55" height="55" style="border: 1px solid whitesmoke;"
+                     viewbox="0 0 55 55" fill="none" alt="logo-web-game-pvp">
+                <div class="brand-title">
+                    <h2 class="">PvP Center</h2>
+                    <span class="brand-sub-title">Game giải trí-chiến thuật</span>
+                </div>
+            </a>
+            <div class="nav-control">
+                <div class="hamburger">
+                    <span class="line"></span><span class="line"></span><span class="line"></span>
+                </div>
+            </div>
+        </div>
+        <!--**********************************
+        Nav header end
+    ***********************************-->
+        <!--**********************************
+        Chat box start
+    ***********************************-->
+        @Html.Partial("_FriendChat")
+        <!--**********************************
+        Chat box End
+    ***********************************-->
+        @Html.Partial("_TopRank") 
+        <!--**********************************
+        Header start
+    ***********************************-->
+        @Html.Partial("_Header")
+        <!--**********************************
+        Header end ti-comment-alt
+    ***********************************-->
+        <!--**********************************
+        Sidebar start
+    ***********************************-->
+        @Html.Partial("_MenuGames")
+        <!--**********************************
+        Sidebar end
+    ***********************************-->
+        @RenderBody()
+        <!--**********************************
+        Footer start
+    ***********************************-->
+        <!--**********************************
+        Footer end
+    ***********************************-->
+        <!--**********************************
+       Support ticket button start
+    ***********************************-->
+        <!--**********************************
+       Support ticket button end
+    ***********************************-->
+        <!--**********************************
+        Main wrapper end
+    ***********************************-->
+        <!--**********************************
+        Scripts
+    ***********************************-->
+        <!-- Required vendors -->
+        <script src="/vendor/global/global.min.js"></script>
+        <script src="/vendor/chart.js/Chart.bundle.min.js"></script>
+        <script src="/vendor/jquery-nice-select/js/jquery.nice-select.min.js"></script>
+
+        <!-- Apex Chart -->
+        <script src="/vendor/apexchart/apexchart.js"></script>
+        <script src="/vendor/chart.js/Chart.bundle.min.js"></script>
+        <!-- Chart piety plugin files -->
+        <script src="/vendor/peity/jquery.peity.min.js"></script>
+        <!-- Dashboard 1 -->
+        <script src="/js/dashboard/dashboard-1.js"></script>
+        <script src="/vendor/owl-carousel/owl.carousel.js"></script>
+        <script src="/js/custom.min.js"></script>
+        <script src="/js/dlabnav-init.js"></script>
+        <script src="/js/styleSwitcher.js"></script>
+        <script src="~/js/chat.js"></script>
+        <script src="~/js/demo.js"></script>
+        <script>
+            //// Hàm thay đổi src của iframe và cập nhật nội dung của dashboard_bar
+            //function updateIframeSrc(iframeSelector, linkSelector, dashboardBarSelector) {
+            //    // Lấy tất cả các thẻ a trong danh sách
+            //    const links = document.querySelectorAll(linkSelector);
+
+            //    // Lấy iframe để thay đổi src
+            //    const iframe = document.querySelector(iframeSelector);
+
+            //    // Lấy phần tử dashboard_bar để thay đổi nội dung
+            //    const dashboardBar = document.querySelector(dashboardBarSelector);
+
+            //    // Lắng nghe sự kiện click trên các thẻ a
+            //    links.forEach(link => {
+            //        link.addEventListener('click', function (event) {
+            //            // Ngừng hành động mặc định của thẻ a (chuyển trang)
+            //            event.preventDefault();
+
+            //            // Lấy giá trị href của thẻ a
+            //            const newSrc = link.getAttribute('href');
+
+            //            // Đổ giá trị href vào src của iframe
+            //            iframe.setAttribute('src', newSrc);
+
+            //            // Cập nhật nội dung của dashboard_bar với nội dung của thẻ a
+            //            const linkText = link.textContent.trim(); // Lấy nội dung văn bản của thẻ a
+            //            dashboardBar.textContent = linkText;
+            //        });
+            //    });
+            //}
+            //// Gọi hàm khi DOM đã sẵn sàng
+            //document.addEventListener('DOMContentLoaded', function () {
+            //    updateIframeSrc('.fullscreen iframe', '.metismenu a[href]', '.dashboard_bar');
+            //});
+
+            function cardsCenter() {
+                /*  testimonial one function by = owl.carousel.js */
+
+                jQuery('.card-slider').owlCarousel({
+                    loop: true,
+                    margin: 0,
+                    nav: true,
+                    //center:true,
+                    slideSpeed: 3000,
+                    paginationSpeed: 3000,
+                    dots: true,
+                    navText: ['<i class="fas fa-arrow-left"></i>', '<i class="fas fa-arrow-right"></i>'],
+                    responsive: {
+                        0: {
+                            items: 1
+                        },
+                        576: {
+                            items: 1
+                        },
+                        800: {
+                            items: 1
+                        },
+                        991: {
+                            items: 1
+                        },
+                        1200: {
+                            items: 1
+                        },
+                        1600: {
+                            items: 1
+                        }
+                    }
+                })
+            }
+
+            jQuery(window).on('load', function () {
+                setTimeout(function () {
+                    cardsCenter();
+                }, 1000);
+            });
+            jQuery(document).ready(function () {
+                setTimeout(function () {
+                    dlabSettingsOptions.version = 'dark';
+                    new dlabSettings(dlabSettingsOptions);
+                }, 1500)
+            });
+        </script>
+
+        @RenderSection("scripts", required: false)
+</body>
+</html>

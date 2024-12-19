@@ -1,0 +1,10 @@
+E:\Games\0.Code\TextToSpeed\bin\Debug\TextToSpeed.exe.config
+E:\Games\0.Code\TextToSpeed\bin\Debug\TextToSpeed.exe
+E:\Games\0.Code\TextToSpeed\bin\Debug\TextToSpeed.pdb
+E:\Games\0.Code\TextToSpeed\obj\Debug\TextToSpeed.csproj.AssemblyReference.cache
+E:\Games\0.Code\TextToSpeed\obj\Debug\TextToSpeed.Form1.resources
+E:\Games\0.Code\TextToSpeed\obj\Debug\TextToSpeed.Properties.Resources.resources
+E:\Games\0.Code\TextToSpeed\obj\Debug\TextToSpeed.csproj.GenerateResource.cache
+E:\Games\0.Code\TextToSpeed\obj\Debug\TextToSpeed.csproj.CoreCompileInputs.cache
+E:\Games\0.Code\TextToSpeed\obj\Debug\TextToSpeed.exe
+E:\Games\0.Code\TextToSpeed\obj\Debug\TextToSpeed.pdb
